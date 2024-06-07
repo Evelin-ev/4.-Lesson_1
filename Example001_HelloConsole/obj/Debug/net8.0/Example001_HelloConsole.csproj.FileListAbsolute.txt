@@ -1,0 +1,14 @@
+C:\Программы\VSCode\Git\4. Знакомство с языками программирования\1_Lesson\Example001_HelloConsole\bin\Debug\net8.0\Example001_HelloConsole.exe
+C:\Программы\VSCode\Git\4. Знакомство с языками программирования\1_Lesson\Example001_HelloConsole\bin\Debug\net8.0\Example001_HelloConsole.deps.json
+C:\Программы\VSCode\Git\4. Знакомство с языками программирования\1_Lesson\Example001_HelloConsole\bin\Debug\net8.0\Example001_HelloConsole.runtimeconfig.json
+C:\Программы\VSCode\Git\4. Знакомство с языками программирования\1_Lesson\Example001_HelloConsole\bin\Debug\net8.0\Example001_HelloConsole.dll
+C:\Программы\VSCode\Git\4. Знакомство с языками программирования\1_Lesson\Example001_HelloConsole\bin\Debug\net8.0\Example001_HelloConsole.pdb
+C:\Программы\VSCode\Git\4. Знакомство с языками программирования\1_Lesson\Example001_HelloConsole\obj\Debug\net8.0\Example001_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Программы\VSCode\Git\4. Знакомство с языками программирования\1_Lesson\Example001_HelloConsole\obj\Debug\net8.0\Example001_HelloConsole.AssemblyInfoInputs.cache
+C:\Программы\VSCode\Git\4. Знакомство с языками программирования\1_Lesson\Example001_HelloConsole\obj\Debug\net8.0\Example001_HelloConsole.AssemblyInfo.cs
+C:\Программы\VSCode\Git\4. Знакомство с языками программирования\1_Lesson\Example001_HelloConsole\obj\Debug\net8.0\Example001_HelloConsole.csproj.CoreCompileInputs.cache
+C:\Программы\VSCode\Git\4. Знакомство с языками программирования\1_Lesson\Example001_HelloConsole\obj\Debug\net8.0\Example001_HelloConsole.dll
+C:\Программы\VSCode\Git\4. Знакомство с языками программирования\1_Lesson\Example001_HelloConsole\obj\Debug\net8.0\refint\Example001_HelloConsole.dll
+C:\Программы\VSCode\Git\4. Знакомство с языками программирования\1_Lesson\Example001_HelloConsole\obj\Debug\net8.0\Example001_HelloConsole.pdb
+C:\Программы\VSCode\Git\4. Знакомство с языками программирования\1_Lesson\Example001_HelloConsole\obj\Debug\net8.0\Example001_HelloConsole.genruntimeconfig.cache
+C:\Программы\VSCode\Git\4. Знакомство с языками программирования\1_Lesson\Example001_HelloConsole\obj\Debug\net8.0\ref\Example001_HelloConsole.dll
