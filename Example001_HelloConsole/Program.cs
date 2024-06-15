@@ -1,2 +1,4 @@
-﻿// Hello, World!
-Console.WriteLine("Hello!");
+﻿// Программа, которая в приветствии использует ваше имя
+Console.WriteLine("Привет!");
+
+
