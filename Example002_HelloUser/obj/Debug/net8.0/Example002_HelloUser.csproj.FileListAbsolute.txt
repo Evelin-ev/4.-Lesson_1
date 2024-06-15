@@ -1,0 +1,15 @@
+C:\Программы\VSCode\Git\4. Знакомство с языками программирования\1_Lesson\Example002_HelloUser\bin\Debug\net8.0\Example002_HelloUser.exe
+C:\Программы\VSCode\Git\4. Знакомство с языками программирования\1_Lesson\Example002_HelloUser\bin\Debug\net8.0\Example002_HelloUser.deps.json
+C:\Программы\VSCode\Git\4. Знакомство с языками программирования\1_Lesson\Example002_HelloUser\bin\Debug\net8.0\Example002_HelloUser.runtimeconfig.json
+C:\Программы\VSCode\Git\4. Знакомство с языками программирования\1_Lesson\Example002_HelloUser\bin\Debug\net8.0\Example002_HelloUser.dll
+C:\Программы\VSCode\Git\4. Знакомство с языками программирования\1_Lesson\Example002_HelloUser\bin\Debug\net8.0\Example002_HelloUser.pdb
+C:\Программы\VSCode\Git\4. Знакомство с языками программирования\1_Lesson\Example002_HelloUser\obj\Debug\net8.0\Example002_HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Программы\VSCode\Git\4. Знакомство с языками программирования\1_Lesson\Example002_HelloUser\obj\Debug\net8.0\Example002_HelloUser.AssemblyInfoInputs.cache
+C:\Программы\VSCode\Git\4. Знакомство с языками программирования\1_Lesson\Example002_HelloUser\obj\Debug\net8.0\Example002_HelloUser.AssemblyInfo.cs
+C:\Программы\VSCode\Git\4. Знакомство с языками программирования\1_Lesson\Example002_HelloUser\obj\Debug\net8.0\Example002_HelloUser.csproj.CoreCompileInputs.cache
+C:\Программы\VSCode\Git\4. Знакомство с языками программирования\1_Lesson\Example002_HelloUser\obj\Debug\net8.0\Example002_HelloUser.sourcelink.json
+C:\Программы\VSCode\Git\4. Знакомство с языками программирования\1_Lesson\Example002_HelloUser\obj\Debug\net8.0\Example002_HelloUser.dll
+C:\Программы\VSCode\Git\4. Знакомство с языками программирования\1_Lesson\Example002_HelloUser\obj\Debug\net8.0\refint\Example002_HelloUser.dll
+C:\Программы\VSCode\Git\4. Знакомство с языками программирования\1_Lesson\Example002_HelloUser\obj\Debug\net8.0\Example002_HelloUser.pdb
+C:\Программы\VSCode\Git\4. Знакомство с языками программирования\1_Lesson\Example002_HelloUser\obj\Debug\net8.0\Example002_HelloUser.genruntimeconfig.cache
+C:\Программы\VSCode\Git\4. Знакомство с языками программирования\1_Lesson\Example002_HelloUser\obj\Debug\net8.0\ref\Example002_HelloUser.dll
